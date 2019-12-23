@@ -1,0 +1,16 @@
+{
+  "name": "codility",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Javascript solutions for Codility lessons and challenges",
+  "repository": "git@github.com:avidenie/codility.git",
+  "license": "MIT",
+  "author": "Adrian Videnie <avidenie@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
