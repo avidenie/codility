@@ -30,3 +30,9 @@ Task | Solution
 [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | https://app.codility.com/demo/results/trainingKA546Q-CXK/
 [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | https://app.codility.com/demo/results/trainingBV8Y5Z-5ZT/
 [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | https://app.codility.com/demo/results/trainingXR4YSY-HQJ/
+
+## Lesson 5: Prefix Sums
+
+Task | Solution
+-----| --------
+[PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | https://app.codility.com/demo/results/training9CQXVB-6SV/
