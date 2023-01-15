@@ -36,3 +36,9 @@ Task | Solution
 Task | Solution
 -----| --------
 [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | https://app.codility.com/demo/results/training9CQXVB-6SV/
+
+## Lesson 6: Sorting
+
+Task | Solution
+-----| --------
+[Distinct](https://app.codility.com/programmers/lessons/6-sorting/) | https://app.codility.com/demo/results/training8DYNNM-G5T/
